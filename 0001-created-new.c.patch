@@ -1,0 +1,20 @@
+From b418983fcbb26ea97cd0dba277b223bd31be62c5 Mon Sep 17 00:00:00 2001
+From: devel1 <devel1@gmail.com>
+Date: Tue, 30 Jul 2019 12:13:13 +0530
+Subject: [PATCH 1/2] created new.c
+
+---
+ new.c | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 new.c
+
+diff --git a/new.c b/new.c
+new file mode 100644
+index 0000000..52ab198
+--- /dev/null
++++ b/new.c
+@@ -0,0 +1 @@
++sgfksgsdfbgj
+-- 
+2.7.4
+
